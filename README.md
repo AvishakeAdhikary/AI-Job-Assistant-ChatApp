@@ -2,6 +2,12 @@
 
 Welcome to the world's first Flask application based on OpenAI's new Assistants API! This project allows you to create your own fully custom GPTs with specific functions tailored to assist both job seekers and job recruiters.
 
+
+
+https://github.com/AvishakeAdhikary/AI-Job-Assistant-ChatApp/assets/32614982/baea8d0e-321e-4fe5-bace-880d9615b136
+
+
+
 ## Getting Started
 
 ![image](https://github.com/AvishakeAdhikary/AI-Job-Assistant-ChatApp/assets/32614982/b24e8d91-dce2-4adf-9e69-386970465d27)
