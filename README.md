@@ -4,7 +4,9 @@ Welcome to the world's first Flask application based on OpenAI's new Assistants 
 
 
 
-https://github.com/AvishakeAdhikary/AI-Job-Assistant-ChatApp/assets/32614982/baea8d0e-321e-4fe5-bace-880d9615b136
+
+https://github.com/AvishakeAdhikary/AI-Job-Assistant-ChatApp/assets/32614982/b9014e3e-8ba6-4e44-8c6a-90ffd311e7d3
+
 
 
 
