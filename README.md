@@ -30,7 +30,7 @@ Follow the steps below to set up and run the project on your local machine:
 
 3. **Install dependencies:**
     ```bash
-    pip install -r requirements.txt
+    pip install --upgrade --force-reinstall -r requirements.txt
     ```
 
 4. **Obtain OpenAI API Key:**
