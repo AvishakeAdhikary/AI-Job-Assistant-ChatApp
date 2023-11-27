@@ -5,14 +5,15 @@ Welcome to the world's first Flask application based on OpenAI's new Assistants 
 
 
 
-https://github.com/AvishakeAdhikary/AI-Job-Assistant-ChatApp/assets/32614982/b9014e3e-8ba6-4e44-8c6a-90ffd311e7d3
+https://github.com/AvishakeAdhikary/AI-Job-Assistant-ChatApp/assets/32614982/d602dfae-3780-482f-82ca-b2232d4640c6
 
 
 
 
 ## Getting Started
 
-![image](https://github.com/AvishakeAdhikary/AI-Job-Assistant-ChatApp/assets/32614982/b24e8d91-dce2-4adf-9e69-386970465d27)
+![image](https://github.com/AvishakeAdhikary/AI-Job-Assistant-ChatApp/assets/32614982/8b11e080-9cf6-4d7b-b049-b4f69167fc68)
+
 
 Follow the steps below to set up and run the project on your local machine:
 
